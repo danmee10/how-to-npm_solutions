@@ -1,0 +1,25 @@
+{
+  "name": "@danmee10/how-to-npm",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danmee10/how-to-npm_solutions.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daniel Mee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmee10/how-to-npm_solutions/issues"
+  },
+  "homepage": "https://github.com/danmee10/how-to-npm_solutions#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
